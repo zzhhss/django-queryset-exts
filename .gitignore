@@ -1,0 +1,11 @@
+.idea
+node_modules
+*.pyc
+*.log
+*.log.*
+venv/
+env/
+build/
+dist/
+*.egg-info
+.vscode/
